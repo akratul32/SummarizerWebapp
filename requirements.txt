@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openai
+pytube
+unstructured[all-docs]
+python-docx
+pypdf
+validators
+youtube-transcript-api
+docx2txt
+tiktoken
+openai
