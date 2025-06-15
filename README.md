@@ -79,4 +79,4 @@ smart-summarizer/
 MIT License. Feel free to fork, remix, and improve!
 
 ---
-
+🌐 Try the deployed app here → https://summarizerwebapp.streamlit.app/
